@@ -7,6 +7,9 @@ markdown
 [![Web3](https://img.shields.io/badge/Web3-RainbowKit-ff69b4?style=for-the-badge&logo=web3.js)](https://rainbowkit.com)
 [![Base Chain](https://img.shields.io/badge/Base-Chain-0052FF?style=for-the-badge&logo=coinbase)](https://base.org)
 [![Uniswap V4](https://img.shields.io/badge/Uniswap-V4-FF007A?style=for-the-badge&logo=uniswap)](https://uniswap.org)
+[![Audited](https://img.shields.io/badge/Audited-Yes-brightgreen?style=for-the-badge&logo=security)](#)
+[![Verified](https://img.shields.io/badge/Verified-Contract-blue?style=for-the-badge&logo=ethereum)](#)
+[![Tested](https://img.shields.io/badge/Tested-Passing-success?style=for-the-badge&logo=githubactions)](#)
 
 ## 📌 Live Demo
 **👉 [Staking Page Web](https://brvbtc.com/)****
