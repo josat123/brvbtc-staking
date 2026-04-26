@@ -185,20 +185,3 @@ Smart contracts are unaudited - use at your own risk.
 If you find this project helpful, please give it a ⭐ on GitHub!
 
 Built with ❤️ on Base Chain | Report Bug | Request Feature
-
-text
-
-Ora copia questo README e incollalo nel tuo repository! I badge sono tutti formattati con `style=for-the-badge` per un look professionale. 🎨
-
-Per aggiungerlo al repo:
-
-```bash
-# Crea/sovrascrivi il README
-cat > README.md << 'EOF'
-[incolla tutto il contenuto sopra]
-EOF
-
-# Pusha le modifiche
-git add README.md
-git commit -m "docs: add formatted README with badges"
-git push origin main
