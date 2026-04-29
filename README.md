@@ -60,7 +60,15 @@ A **DeFi dashboard** that allows users to stake BRVBTC tokens and earn **real WB
 | Staking Contract | [`0xd1d82b4b4ab5998954952e4635abf54e10b8b919`](https://etherscan.io/address/0xd1d82b4b4ab5998954952e4635abf54e10b8b919#code) | ✅ Verified |
 | BRVBTC Token | [`0x9bc0F4d4B31AdEa0c7Fde6f40a778E4Ce7Bc652d`](https://etherscan.io/token/0x9bc0F4d4B31AdEa0c7Fde6f40a778E4Ce7Bc652d) | ✅ Deployed |
 | Bridge | `0xe8681d55585FcDA6a4a39c9a59f39b63fbBa88e8` | ✅ Active |
-| Uniswap V4 Pool | Pool ID: `0x9b92d9248bb38aa452c384a8bc228f09fe00b0dd2bab24b23a6c6000731e12c1` | ✅ Active |
+| Uniswap V4 Pool | Pool ID: `0x9bc0f4d4b31adea0c7fde6f40a778e4ce7bc652d` | ✅ Active |
+
+### Arbitrum L2
+
+| Contract | Address | Status |
+|----------|---------|--------|
+| Staking Contract | [`0x5Ea83b4c928Aa4055D02592f3AFE0fE87318598D`]([https://arbiscan.com/address/0x5Ea83b4c928Aa4055D02592f3AFE0fE87318598D#code) | ✅ Verified |
+| BRVBTC Token | `0x71585d90E726b82c3C435212995Fe49ADef98343` | ✅ Deployed |
+| Uniswap V4 Pool | Pool ID: `0x360E68faCcca8cA495c1B759Fd9EEe466db9FB32` | ✅ Active |
 
 ### Polygon L2
 
@@ -69,7 +77,7 @@ A **DeFi dashboard** that allows users to stake BRVBTC tokens and earn **real WB
 | Staking Contract | [`0x218b9d6c659d3ecff64ebf51710ddcb6c22c35fe`](https://polygonscan.com/address/0x218b9d6c659d3ecff64ebf51710ddcb6c22c35fe#code) | ✅ Verified |
 | BRVBTC Token | `0xa5c96d77C280B9F4bA13cd4064C4864Cf69a3BCB` | ✅ Deployed |
 | Bridge | `0x0Ef6a63a16fB21dD8398183a154596953Ce4E835` | ✅ Active |
-| Uniswap V4 Pool | Pool ID: `0x29cb3f985f71adbe31b3d128449a49a7ce743a9fb0e3d9288077874934dee761` | ✅ Active |
+| Uniswap V4 Pool | Pool ID: `0x67366782805870060151383f4bbff9dab53e5cd6` | ✅ Active |
 
 ---
 
